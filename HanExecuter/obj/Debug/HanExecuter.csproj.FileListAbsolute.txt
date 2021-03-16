@@ -10,3 +10,10 @@ C:\Users\Reyhan\source\repos\HanExecuter\HanExecuter\obj\Debug\HanExecuter.cspro
 C:\Users\Reyhan\source\repos\HanExecuter\HanExecuter\obj\Debug\HanExecuter.csproj.CopyComplete
 C:\Users\Reyhan\source\repos\HanExecuter\HanExecuter\obj\Debug\HanExecuter.exe
 C:\Users\Reyhan\source\repos\HanExecuter\HanExecuter\obj\Debug\HanExecuter.pdb
+C:\Users\Reyhan\OneDrive\Dokumen\GitHub\HanExecuter\HanExecuter\obj\Debug\HanExecuter.csprojAssemblyReference.cache
+C:\Users\Reyhan\OneDrive\Dokumen\GitHub\HanExecuter\HanExecuter\obj\Debug\HanExecuter.HanExecuter.resources
+C:\Users\Reyhan\OneDrive\Dokumen\GitHub\HanExecuter\HanExecuter\obj\Debug\HanExecuter.Properties.Resources.resources
+C:\Users\Reyhan\OneDrive\Dokumen\GitHub\HanExecuter\HanExecuter\obj\Debug\HanExecuter.csproj.GenerateResource.cache
+C:\Users\Reyhan\OneDrive\Dokumen\GitHub\HanExecuter\HanExecuter\obj\Debug\HanExecuter.csproj.CoreCompileInputs.cache
+C:\Users\Reyhan\OneDrive\Dokumen\GitHub\HanExecuter\HanExecuter\obj\Debug\HanExecuter.exe
+C:\Users\Reyhan\OneDrive\Dokumen\GitHub\HanExecuter\HanExecuter\obj\Debug\HanExecuter.pdb
